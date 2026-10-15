@@ -18,3 +18,5 @@ The Online Vaccine Tracking System is a software application that helps users tr
 
 ## Version Control
 Git is used to track changes and maintain different versions of the project.
+## New Feature: Vaccine Status Tracking
+Users can check whether their vaccine doses are completed, pending, or upcoming.
